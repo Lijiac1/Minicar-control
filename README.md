@@ -137,7 +137,6 @@ Activity Diagram
 - Java
 - SMCE
 - Arduino IDE & VS Code & Android Studio
-- Java FX  &  Swing
 
 ## Resource
 1. [SMCE](https://github.com/ItJustWorksTM/smce-gd/releases)
